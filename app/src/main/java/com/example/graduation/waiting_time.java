@@ -136,6 +136,7 @@ public class waiting_time extends AppCompatActivity {
                 data.setValueTextColor(Color.BLACK);
 
 
+                //piechart
                 pieChart.setUsePercentValues(false);
                 pieChart.getDescription().setEnabled(false);
                 pieChart.setExtraOffsets(0,0,0,0);
