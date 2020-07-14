@@ -11,4 +11,7 @@
 
     </style>
 
+    <color name="color1"> #556677</color>
+    <color name="color_white"> #ffffff</color>
+
 </resources>
